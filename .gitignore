@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.pem
+results_all.txt
+*.zip
+*.jsonl
+*.pkl
